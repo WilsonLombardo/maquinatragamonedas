@@ -90,12 +90,12 @@ class Application(tk.Frame):
     # Redirect to help website.
     # Caller: help_menu on "Manual de Usuario" click.
     def redirect_to_help(self) -> None:
-        webbrowser.open("https://github.com/MarcoTomasRodriguez/tragamonedas")
+        webbrowser.open("https://github.com/WilsonLombardo/maquinatragamonedas")
 
     # Show about.
     # Caller: help_menu on "Acerca de" click.
     def show_about(self) -> None:
-        tk.messagebox.showinfo("Acerca de", "Trabajo realizado por Alejo Scarlato y Marco Rodriguez")
+        tk.messagebox.showinfo("Acerca de", "Trabajo realizado por Wilson Lombardo")
 
     # Deposit a balance.
     # Caller: deposit_button on click.
