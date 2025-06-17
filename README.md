@@ -1,6 +1,6 @@
 # Máquina Tragamonedas
 
-Este programa es una simulación de una máquina tragamonedas, cuyos tiros se almacenarán para un posterior análisis de datos. El RTP es muy desfavorable para el jugador en este caso, en maquina tragamonedas 2.0 soluciono este problema.
+Este programa es una simulación de una máquina tragamonedas, cuyos tiros se almacenarán para un posterior análisis de datos. El RTP es muy desfavorable para el jugador en este caso, en maquina tragamonedas 2.0 soluciono este problema. https://github.com/WilsonLombardo/maquinatragamonedas2.0
 
 ## Índice
 
